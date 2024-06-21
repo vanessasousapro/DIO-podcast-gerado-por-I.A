@@ -1,9 +1,7 @@
 <p align="center">
-<div style="text-align: center;">
-  <img src="./image/piclesdev.png" alt="imagem do picles dev" 
-  width="300" height="300">
-</div>
-</p>
+  <img src="./image/piclesdev.png" width="30%">
+  </a>
+<p>
 
 <p align="center">
 </p>
@@ -51,7 +49,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `chatgpt`
 
-## 👨‍💻 Expert
+## 👨‍💻 Dev
 
 <p>
     <img 
