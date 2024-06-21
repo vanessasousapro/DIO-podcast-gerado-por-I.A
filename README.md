@@ -1,6 +1,6 @@
 <p align="center">
 <div style="text-align: center;">
-  <img src="./piclesdev.png" alt="imagem do picles dev" 
+  <img src="./image/piclesdev.png" alt="imagem do picles dev" 
   width="300" height="300">
 </div>
 </p>
