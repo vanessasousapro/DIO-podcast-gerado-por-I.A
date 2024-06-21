@@ -14,7 +14,7 @@
 
 <div align="center">
     <audio controls>
-  <source src="./Episódio 01 Desvendando as Sombras do CSS e Explo.MP3" type="audio/mpeg">
+  <source src="./output/Episódio 01 Desvendando as Sombras do CSS e Explo.MP3" type="audio/mpeg">
 </audio>
 </div>
 
